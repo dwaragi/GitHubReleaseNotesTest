@@ -1,7 +1,7 @@
 changelog:
   exclude:
     labels:
-      - 'Don't Merge'
+      - 'Don''t Merge'
       - 'WIP'
   categories:
     - title: ':boom: Breaking Changes'
