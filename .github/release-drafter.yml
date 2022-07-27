@@ -1,4 +1,4 @@
-template: ''
+template: ' '
 
 autolabeler:
   - label: ':blue_book: documentation'
