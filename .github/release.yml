@@ -1,0 +1,27 @@
+changelog:
+  exclude:
+    labels:
+      - 'Don't Merge'
+      - 'WIP'
+  categories:
+    - title: ':boom: Breaking Changes'
+      labels:
+        - ':boom: breaking change'
+    - title: ':muscle: Enhancements'
+      labels:
+        - ':muscle: enhancement'
+    - title: ':rocket: Features'
+      labels:
+        - ':rocket: feature'
+    - title: ':lady_beetle: Bugs'
+      labels:
+        - ':lady_beetle: bug'
+    - title: ':blue_book: Documentation'
+      labels:
+        - ':blue_book: documentation'
+    - title: Dependencies
+      labels:
+        - ':package: dependencies'
+    - title: Others
+      labels:
+        - '*'
