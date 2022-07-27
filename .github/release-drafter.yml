@@ -1,0 +1,18 @@
+autolabeler:
+  - label: ':blue_book: documentation'
+    branch:
+      - '/doc(umentation)[/-_].+/'
+    files:
+      - '*.md'
+  - label: ':lady_beetle: bug'
+    branch:
+      - '/fix[/-_].+/'
+  - label: ':muscle: enhancement'
+    branch:
+      - '/enhancement[/-_].+/'
+  - label: ':package: dependencies'
+    branch:
+      - '/update-deps[/-_].+/'
+  - label: ':rocket: feature'
+    branch:
+      - '/feat(ure)?[/-_].+/'
